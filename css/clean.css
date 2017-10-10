@@ -66,15 +66,16 @@
  }
 
  .elearn-images{
- 	margin-top: -340px;
+ 	margin-top: -293px;
  	margin-right: -290px;
 
 
  }
 
  .para{
- 	font-size: 15px;text-align: left;width: 300px;margin-left: 20px;
+ 	font-size: 13px;text-align: justify;width: 300px;margin-left: 20px;
  	margin-top: 0px;
+ 	te
  }
 
  .github{
@@ -110,7 +111,7 @@ a.elearngithub:hover{
  }
 
  .table-images{
- 	margin-top: -363px;
+ 	margin-top: -349px;
  	margin-right: -290px;
 
 
@@ -129,3 +130,23 @@ a.elearngithub:hover{
  	//background-color: #eee;
  	margin-left: 140px;
  }
+
+  .music-images{
+ 	margin-top: -285px;
+ 	margin-right: -290px;
+
+
+ }
+
+  .jumpup{
+ 	margin-top: 80px;
+ 	display: block;
+ 	width: 1000px;
+ 	height: 410px;
+ 	border: 1px solid #EEE;
+ 	//background-color: #eee;
+ 	margin-left: 140px;
+
+ }
+
+  
